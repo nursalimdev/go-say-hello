@@ -1,3 +1,3 @@
-module github.com/nursalimdev/go-say-hello
+module github.com/nursalimdev/go-say-hello/v2
 
 go 1.20
